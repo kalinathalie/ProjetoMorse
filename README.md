@@ -18,4 +18,4 @@ $ cd bin/ && make && cd ..
 ```
 $ ./bin/MorseCode
 ```
-By: Lucas Nathaniel && Clóvis Soares
+By: Kali Nathalie && Clóvis Soares
