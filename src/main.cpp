@@ -4,7 +4,7 @@
   *@file main.cpp
   *@version 1.0
   *@date 13/04/2017
-  *@author Lucas Nathaniel e Clovis Soares
+  *@author Kali Nathalie e Clovis Soares
   *@brief principal funcao do programa, administra a leitura, processamento e saida dos codigos em morse
   *
   *A funcao le o arquivo ../saida/saida.txt e traduz de acordo com a opção escolhida

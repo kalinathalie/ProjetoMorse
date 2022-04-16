@@ -5,7 +5,7 @@
 
 <p> > Obs.: "Caracteres" brasileiros como: "á", "ç", "é", não podem sem utilizados, pois não são chars comuns. </p>
 
-Arquivo no git: <https://github.com/lucasnathaniel/ProjetoMorse>
+Arquivo no git: <https://github.com/KaliNathalie/ProjetoMorse>
 
 ## Compilação
 
